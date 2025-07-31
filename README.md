@@ -1,7 +1,7 @@
 # Healthcare Data Cleaning Project
 ### Introduction
 
-This project demonstrates a comprehensive data cleaning process for a healthcare dataset using SQL. I utilized best practices to ensure data quality and consistency, making the dataset more reliable for analysis and reporting.
+This project demonstrates a comprehensive data cleaning process using SQL for a [healthcare dataset pulled from Kaggle](https://www.kaggle.com/datasets/prasad22/healthcare-dataset). I utilized best practices to ensure data quality and consistency, making the dataset more reliable for analysis and reporting.
 
 ### Data Cleaning Best Practices Implemented
 
